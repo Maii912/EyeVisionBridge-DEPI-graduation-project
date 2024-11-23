@@ -40,7 +40,7 @@ This repository serves as a showcase for the design process and case study condu
 
 Hi! I’m Maii, a UI/UX designer passionate about crafting user-centered digital experiences. Feel free to reach out or explore more of my work:
 
-- Behance: [My Portfolio](https://www.behance.net)
+- Behance: [My Portfolio](https://www.behance.net/maiiosama1)
 - Email: [my-email](maii.osama912@gmail.com)
 
 ---
